@@ -10,6 +10,24 @@
 
 
 
+
+
+
+
+    <color name="pink_c">#ff9ff3</color>
+    <color name="yellow_c">#feca57</color>
+    <color name="red_c">#ee5253</color>
+    <color name="blued_c">#1e3799</color>
+    <color name="purple_c">#5f27cd</color>
+    <color name="white_c">#c8d6e5</color>
+    <color name="blue_c">#48dbfb</color>
+    <color name="green_c">#1dd1a1</color>
+    <color name="black_c">#222f3e</color>
+
+
+
+
+
     <color name="orange">#EE5A24</color>
     <color name="orange_font">#2f3542</color>
     <color name="orange_primary">#FFC312</color>
